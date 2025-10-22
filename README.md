@@ -49,7 +49,3 @@ You must have **Node.js** and **npm** installed on your system.
     ```bash
     npx ts-node taskManager.ts
     ```
-
----
-
-## 📁 Project Structure
